@@ -13,5 +13,12 @@
     "@types/node": "^20.14.9",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "minecraft-protocol": "^1.47.0",
+    "prismarine-block": "^1.17.1",
+    "prismarine-chunk": "^1.35.0",
+    "prismarine-world": "^3.6.3",
+    "vec3": "^0.1.10"
   }
 }
